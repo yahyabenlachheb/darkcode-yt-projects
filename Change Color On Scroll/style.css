@@ -1,0 +1,7 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color:darkblue;
+  transition: background .3s linear;
+  min-height: 400vh;
+}
